@@ -1,0 +1,24 @@
+{
+  "name": "limesclient",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filiplitvin/limesclient.git"
+  },
+  "author": "Filip Litvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filiplitvin/limesclient/issues"
+  },
+  "homepage": "https://github.com/filiplitvin/limesclient#readme",
+  "dependencies": {
+    "simple-notify": "^1.0.6"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
